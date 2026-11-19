@@ -1,0 +1,10 @@
+ol{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    color: #333;
+}
+li{
+    margin-bottom: 10px;
+    color: #555;
+    font-size: 14px;
+}
